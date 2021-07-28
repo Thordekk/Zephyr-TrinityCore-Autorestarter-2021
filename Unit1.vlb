@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿[startw]
 Coordinates=79,10,44,51
 
@@ -9,18 +8,3 @@ Visible=True
 [startb]
 Coordinates=212,10,53,51
 
-=======
-﻿[startw]
-Coordinates=79,10,44,51
-
-[]
-Coordinates=10,10,53,51
-Visible=True
-
-[startb]
-Coordinates=212,10,53,51
-
-[StopButton]
-Coordinates=10,78,53,51
-
->>>>>>> c03a664f59e3e3fbe18ad9e386c44aff23fb7a71

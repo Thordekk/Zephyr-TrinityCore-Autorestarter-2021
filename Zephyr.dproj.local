@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
@@ -10,16 +9,3 @@
     <Transaction>1899.12.30 00:00:00.000.210,C:\Users\Rendszergazda\Desktop\Delphi projects\Unit2.pas=</Transaction>
   </Transactions>
 </BorlandProject>
-=======
-﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.274,C:\Users\zolta\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\zolta\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.224,C:\Users\zolta\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\zolta\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.231,C:\Users\Rendszergazda\Desktop\Delphi projects\Project1.dproj=C:\Users\Rendszergazda\Desktop\Delphi projects\Zephyr.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.403,=C:\Users\zolta\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.090,=C:\Users\zolta\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.210,C:\Users\Rendszergazda\Desktop\Delphi projects\Unit2.pas=</Transaction>
-  </Transactions>
-</BorlandProject>
->>>>>>> c03a664f59e3e3fbe18ad9e386c44aff23fb7a71
